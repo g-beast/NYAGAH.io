@@ -24,7 +24,7 @@
   
   header nav ul {
     list-style: none;
-    display: flex;
+    text-align: right;
   }
   
   header nav ul li {
@@ -159,7 +159,7 @@
   }
 
   .social-container a i img{
-    width: 70px;
+    width: 40px;
   }
   
   footer {
