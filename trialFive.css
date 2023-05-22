@@ -144,7 +144,7 @@
   
   .social-container a {
     display: block;
-    background: linear-gradient(160deg, #eef3f3, #7dc4c7);
+    background: linear-gradient(160deg, #1a2020, #7dc4c7);
     color: #fff;
     text-decoration: none;
     margin:5%;
@@ -155,13 +155,9 @@
     background: linear-gradient(160deg, #e7df95, #d3875b);
   }
   .social-container a i {
-    font-size: 1.5rem;
+    font-size: 2.6rem;
   }
 
-  .social-container a i img{
-    width: 60px;
-  }
-  
   footer {
     background-color: #0077be;
     color: #fff;
@@ -176,7 +172,7 @@
   
   @media screen and (max-width: 768px) {
     .intro-text, .intro-photo {
-   width: 100%;
+      width: 100%;
       float: none;
     }
     
